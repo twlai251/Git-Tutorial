@@ -2,7 +2,7 @@
 Contains all Git Tutorial
 
 # create a new repository on the command line
-echo "# Push-to-GitHub" >> README.md 
+echo "# Push-to-GitHub" >> README.md <br/>
 git init
 git add README.md 
 git commit -m "first commit"
