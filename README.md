@@ -2,9 +2,9 @@
 Contains all Git Tutorial
 
 # create a new repository on the command line
-echo "# Push-to-GitHub" >> README.md <br/>
-git init <br/>
-git add README.md <br/>
+echo "# Push-to-GitHub" >> README.md 
+git init
+git add README.md 
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/twlai251/Git-Tutorial.git
